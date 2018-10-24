@@ -8,6 +8,8 @@
     authors and labels:
     Sara has label 0
     Chris has label 1
+
+    http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
 """
     
 import sys
